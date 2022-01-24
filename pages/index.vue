@@ -6,7 +6,7 @@
     <v-col class="d-flex align-center justify-center flex-column">
       <div class="d-flex align-center justify-center flex-column flex-grow-1">
       <div class="text-h1 font-weight-light pb-3 white--text">jaidyn.</div>
-      <p class="text-h4 font-weight-thin white--text">clothing to encourage, edify, and empower.</p>
+      <p class="text-h4 font-weight-thin white--text text-center">clothing to encourage, edify, and empower.</p>
       </div>
       <p class="text-h4 font-weight-thin white--text my-5">coming soon.</p>
       <div class="my-3 d-flex flex-column flex-md-row space-between">
