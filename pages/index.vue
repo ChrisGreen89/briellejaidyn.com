@@ -38,7 +38,7 @@ export default {
 </script>
 <style scoped>
 .hero {
-  background: linear-gradient(to bottom right,rgba(192, 108, 132, 0.7), rgba(108, 91, 123, 0.7), rgba(53, 92, 125, 0.8)), url('/img/pexels-trinity-kubassek-341858.jpg');
+  background: linear-gradient(to bottom right,rgba(192, 108, 132, 0.7), rgba(108, 91, 123, 0.7), rgba(53, 92, 125, 0.8)); /*url('/img/pexels-trinity-kubassek-341858.jpg');*/
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
